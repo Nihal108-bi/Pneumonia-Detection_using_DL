@@ -1,4 +1,14 @@
-# 🫁 Pneumonia Detection Using Deep Learning
+
+# ## Note on Model File Size
+
+The trained model file (`vgg19_model_01.h5`) is quite large (over 400 MB) and exceeds GitHub's file size limit, so it is **not included** in this repository.
+
+You can watch the [project demo video here](https://www.linkedin.com/posts/nihal-jaiswal-908b52257_deeplearning-pneumoniadetection-healthcareai-activity-7337569916419485696-3gVd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9aG5gBIoQNb622jkUl8gKcSmnNhz6WB0E) to see the Pneumonia Detection system in action.
+
+If you need the model file or any assistance, please feel free to contact me.
+
+
+## 🫁 Pneumonia Detection Using Deep Learning
 
 This project implements a deep learning-based web application for detecting **Pneumonia** from chest X-ray images using a fine-tuned **VGG19** model. The frontend is built using **Streamlit**, enabling an intuitive interface for uploading images and receiving predictions.
 
